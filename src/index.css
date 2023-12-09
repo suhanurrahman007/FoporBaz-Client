@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700;9..40,800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body{
+    font-family: 'DM Sans',
+    sans-serif;
+} */
+
+/* Default to light theme */
+:root {
+    --primary-bg: hsl(211, 29%, 30%);
+    --primary-text: white;
+}
+
+[data-theme="dark"] {
+    --primary-bg: #010313;
+    --primary-text: white;
+}
+
+body {
+    font-family: 'DM Sans',
+    sans-serif;
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+}

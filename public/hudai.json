@@ -1,0 +1,244 @@
+[{
+    "thumbnailUrl": "https://i.ibb.co/dGp2sd1/04102022084048-AM-shutterstock-281429387.jpg",
+    "title": "Mathematics Study Group 1",
+    "marks": 90,
+    "date": "2023-11-15",
+    "difficultyLevel": "Intermediate",
+    "description": "Join us for an intermediate-level math study session. We will cover topics such as calculus and algebra.",
+    "email": "example1@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/mNGVk1D/Groupofstudentsworkingonaproject-4c6fc33375f543498e66be520fc50e1a.jpg",
+    "title": "Science Revision Session 1",
+    "marks": 85,
+    "date": "2023-11-20",
+    "difficultyLevel": "Advanced",
+    "description": "Prepare for your upcoming science exam with this advanced-level revision session.",
+    "email": "example2@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nLN1c5K/group-photo-860x420.jpg",
+    "title": "History Group Study 1",
+    "marks": 75,
+    "date": "2023-11-25",
+    "difficultyLevel": "Beginner",
+    "description": "New to history? Join our beginner-level group study to get started.",
+    "email": "example3@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/HP1s4f8/group-study-3-1.jpg",
+    "title": "Computer Science Study Group 1",
+    "marks": 88,
+    "date": "2023-11-18",
+    "difficultyLevel": "Intermediate",
+    "description": "Enhance your programming skills with our computer science study group.",
+    "email": "example4@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/LPpxdYV/images.jpg",
+    "title": "Physics Study Session 1",
+    "marks": 92,
+    "date": "2023-11-16",
+    "difficultyLevel": "Advanced",
+    "description": "Advanced physics concepts will be discussed in this study session.",
+    "email": "example5@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nDVKQQZ/kids-social-conversation-w.webp",
+    "title": "English Literature Group Study 1",
+    "marks": 78,
+    "date": "2023-11-22",
+    "difficultyLevel": "Beginner",
+    "description": "Explore the world of literature in our beginner-level study group.",
+    "email": "example6@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/z4V4N3r/online-study-group2-blog-banner.jpg",
+    "title": "Chemistry Revision Session 1",
+    "marks": 87,
+    "date": "2023-11-19",
+    "difficultyLevel": "Intermediate",
+    "description": "Get ready for your chemistry exam with our intermediate-level revision session.",
+    "email": "example7@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/m0hbHvd/student-led-study-group-library-id842920176.jpg",
+    "title": "Geography Study Group 1",
+    "marks": 81,
+    "date": "2023-11-23",
+    "difficultyLevel": "Advanced",
+    "description": "Explore the world's geography with our advanced study group.",
+    "email": "example8@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/rZpHz6g/students-study-1-jpg.webp",
+    "title": "Biology Group Study 1",
+    "marks": 76,
+    "date": "2023-11-24",
+    "difficultyLevel": "Intermediate",
+    "description": "Join our intermediate-level biology group study and dive into the world of living organisms.",
+    "email": "example9@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/r5W7QvH/study-group-3.webp",
+    "title": "Economics Study Session 1",
+    "marks": 89,
+    "date": "2023-11-17",
+    "difficultyLevel": "Advanced",
+    "description": "Discuss advanced economic concepts in this study session.",
+    "email": "example10@example.com"
+}]
+
+
+[{
+    "thumbnailUrl": "https://i.ibb.co/WzsbrFF/Young-boy-doing-his-school-work-in-class-min-1024x683.jpg",
+    "title": "Mathematics Study Group 2",
+    "marks": 91,
+    "date": "2023-11-26",
+    "difficultyLevel": "Intermediate",
+    "description": "A continuation of our intermediate-level math study group with new topics.",
+    "email": "example11@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/mNGVk1D/Groupofstudentsworkingonaproject-4c6fc33375f543498e66be520fc50e1a.jpg",
+    "title": "Science Revision Session 2",
+    "marks": 84,
+    "date": "2023-11-28",
+    "difficultyLevel": "Advanced",
+    "description": "Another session to help you excel in your science exams.",
+    "email": "example12@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nLN1c5K/group-photo-860x420.jpg",
+    "title": "History Group Study 2",
+    "marks": 73,
+    "date": "2023-11-30",
+    "difficultyLevel": "Beginner",
+    "description": "A follow-up beginner-level history group study.",
+    "email": "example13@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/HP1s4f8/group-study-3-1.jpg",
+    "title": "Computer Science Study Group 2",
+    "marks": 86,
+    "date": "2023-12-03",
+    "difficultyLevel": "Intermediate",
+    "description": "Join us to learn more about computer science and programming.",
+    "email": "example14@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/LPpxdYV/images.jpg",
+    "title": "Physics Study Session 2",
+    "marks": 94,
+    "date": "2023-12-05",
+    "difficultyLevel": "Advanced",
+    "description": "Advanced physics concepts will be discussed in this study session.",
+    "email": "example15@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nDVKQQZ/kids-social-conversation-w.webp",
+    "title": "English Literature Group Study 2",
+    "marks": 79,
+    "date": "2023-12-08",
+    "difficultyLevel": "Beginner",
+    "description": "Continue exploring literature in our beginner-level study group.",
+    "email": "example16@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/z4V4N3r/online-study-group2-blog-banner.jpg",
+    "title": "Chemistry Revision Session 2",
+    "marks": 88,
+    "date": "2023-12-10",
+    "difficultyLevel": "Intermediate",
+    "description": "Another session to help you excel in your chemistry exams.",
+    "email": "example17@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/m0hbHvd/student-led-study-group-library-id842920176.jpg",
+    "title": "Geography Study Group 2",
+    "marks": 82,
+    "date": "2023-12-12",
+    "difficultyLevel": "Advanced",
+    "description": "Explore the world's geography with our advanced study group.",
+    "email": "example18@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/rZpHz6g/students-study-1-jpg.webp",
+    "title": "Biology Group Study 2",
+    "marks": 75,
+    "date": "2023-12-14",
+    "difficultyLevel": "Intermediate",
+    "description": "A continuation of our intermediate-level biology group study.",
+    "email": "example19@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/r5W7QvH/study-group-3.webp",
+    "title": "Economics Study Session 2",
+    "marks": 90,
+    "date": "2023-12-16",
+    "difficultyLevel": "Advanced",
+    "description": "Another session to discuss advanced economic concepts.",
+    "email": "example20@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/LPpxdYV/images.jpg",
+    "title": "Mathematics Study Group 3",
+    "marks": 93,
+    "date": "2023-12-18",
+    "difficultyLevel": "Intermediate",
+    "description": "A third session of our intermediate-level math study group.",
+    "email": "example21@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nDVKQQZ/kids-social-conversation-w.webp",
+    "title": "Science Revision Session 3",
+    "marks": 86,
+    "date": "2023-12-20",
+    "difficultyLevel": "Advanced",
+    "description": "Prepare for your science exams with this advanced-level revision session.",
+    "email": "example22@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/z4V4N3r/online-study-group2-blog-banner.jpg",
+    "title": "History Group Study 3",
+    "marks": 71,
+    "date": "2023-12-22",
+    "difficultyLevel": "Beginner",
+    "description": "Another beginner-level history group study for those interested.",
+    "email": "example23@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/m0hbHvd/student-led-study-group-library-id842920176.jpg",
+    "title": "Computer Science Study Group 3",
+    "marks": 89,
+    "date": "2023-12-24",
+    "difficultyLevel": "Intermediate",
+    "description": "Learn more about computer science and programming in this session.",
+    "email": "example24@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/rZpHz6g/students-study-1-jpg.webp",
+    "title": "Physics Study Session 3",
+    "marks": 95,
+    "date": "2023-12-26",
+    "difficultyLevel": "Advanced",
+    "description": "Advanced physics concepts will be discussed in this study session.",
+    "email": "example25@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/LPpxdYV/images.jpg",
+    "title": "English Literature Group Study 3",
+    "marks": 80,
+    "date": "2023-12-28",
+    "difficultyLevel": "Beginner",
+    "description": "Continue exploring literature in our beginner-level study group.",
+    "email": "example26@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/nDVKQQZ/kids-social-conversation-w.webp",
+    "title": "Chemistry Revision Session 3",
+    "marks": 89,
+    "date": "2023-12-30",
+    "difficultyLevel": "Intermediate",
+    "description": "Prepare for your chemistry exams with this intermediate-level revision session.",
+    "email": "example27@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/z4V4N3r/online-study-group2-blog-banner.jpg",
+    "title": "Geography Study Group 3",
+    "marks": 83,
+    "date": "2024-01-02",
+    "difficultyLevel": "Advanced",
+    "description": "Explore the world's geography with our advanced study group.",
+    "email": "example28@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/m0hbHvd/student-led-study-group-library-id842920176.jpg",
+    "title": "Biology Group Study 3",
+    "marks": 77,
+    "date": "2024-01-04",
+    "difficultyLevel": "Intermediate",
+    "description": "A continuation of our intermediate-level biology group study.",
+    "email": "example29@example.com"
+}, {
+    "thumbnailUrl": "https://i.ibb.co/rZpHz6g/students-study-1-jpg.webp",
+    "title": "Economics Study Session 3",
+    "marks": 91,
+    "date": "2024-01-06",
+    "difficultyLevel": "Advanced",
+    "description": "Discuss advanced economic concepts in this study session.",
+    "email": "example30@example.com"
+}]
